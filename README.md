@@ -12,6 +12,8 @@ This project was made as a Christmas gift for each member (each couple, technica
 
 I like the idea of "opening" the box as an adventure / experience rather than seeing it as just a thing in a box that requires some extra work to open.
 
+## Functionality
+
 The small display on the outside of the box shows:
 
 1. the **distance** in miles away from the destination, and
