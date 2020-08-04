@@ -4,7 +4,7 @@ A box that only opens / unlocks when it arrives at specific geographic coordinat
 
 ## Disclaimer
 
-If you are one of the few people I gave one of these boxes to and you still haven't reached your destination and you somehow found this... 1) get a move on with it smh, and 2) leave now!!! Be gone! Mild spoilers live here.
+If you are one of the few people I gave one of these boxes to and you still haven't reached your destination _and_ you somehow found this... 1) get a move on with it smh, and 2) leave now!!! Be gone! Mild spoilers live here.
 
 ## Background
 
