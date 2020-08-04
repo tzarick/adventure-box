@@ -24,7 +24,7 @@ This specific program currently takes in 2 sets of coordinates:
 1. a final destination, and
 2. a checkpoint
 
-Initially, the checkpoint is treated as the destination (the user should not know this, as all they see is a distance and heading, and know that they need to take the box somewhere). At the checkpoint, there was a physical clue irl which eventually prompted them to interact with the box in a way that passes the checkpoint and reveals their new distance and heading (to the final destination).
+Initially, the checkpoint is treated as the destination (the user should not know this, as all they see is a distance and heading, and know that they need to take the box somewhere). At the checkpoint, there was a physical clue in real life which eventually prompted them to interact with the box in a way that passes the checkpoint and reveals their new distance and heading (to the final destination).
 
 Upon arrival at the final destination, the 3-digit box combination is displayed on-screen.
 
