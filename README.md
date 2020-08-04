@@ -1,2 +1,3 @@
 # adventure-box
-A box that only opens when it arrives at specific geographic coordinates
+
+A box that only opens/unlocks when it arrives at specific geographic coordinates
